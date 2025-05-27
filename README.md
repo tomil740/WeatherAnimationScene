@@ -3,10 +3,11 @@
 A fully Compose-based UI that visualizes a smooth transition between a **rainy** and **sunny** scene.  
 Designed for a clean user experience with animated backgrounds, rising sun, fading clouds, and dynamic raindrops — all optimized for screen size and performance.
 
-👉 **Watch it in action:**  
-[![Weather Animation Preview](https://img.shields.io/badge/Watch%20Demo-Click%20Here-blue?style=for-the-badge)](https://github.com/user-attachments/assets/cbb2682d-6cd9-4fbd-a1dd-edbec4059179)
 
-> Or download the [fin1.webm](https://github.com/user-attachments/assets/cbb2682d-6cd9-4fbd-a1dd-edbec4059179) directly.
+👉 **Watch it in action:**  
+[![Weather Animation Preview](https://img.shields.io/badge/Watch%20Demo-Click%20Here-blue?style=for-the-badge)](https://github.com/user-attachments/assets/2b0d9e9a-fd50-46a1-9652-9fe4f2668e73)
+ 
+> Or download the [fin1.webm](https://github.com/user-attachments/assets/2b0d9e9a-fd50-46a1-9652-9fe4f2668e73) directly.
 
 
 ---
